@@ -1,8 +1,6 @@
 <?php 
 require("includes/common.inc.php");
 require("includes/conn.inc.php"); 
-
-
 ?>
 
 <!DOCTYPE html>
